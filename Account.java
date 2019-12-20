@@ -14,7 +14,7 @@ public class Account {
 		
 		AccountDTO dto = new AccountDTO();
 		do {
-			System.out.print(" 아이디: ");
+			System.out.print(" ID: ");
 			dto.setcId(sc.next());
 		}while(dao.useridOverlay(dto.getcId())==true); 
 		System.out.print(" 비밀번호: ");

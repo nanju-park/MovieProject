@@ -11,7 +11,7 @@ public class MovieMain {
 		Movie mo = new Movie(custom_pid);
 		int ch;
 		try {
-			while(true) {
+			while(true) { 
 				do {
 					System.out.println();
 					System.out.println("忙式式式式式成式式式式式成式式式式式成式式式式式成式式式式式成式式式成式式式忖");

@@ -13,7 +13,7 @@ public class AccountMain {
 		int ch;
 		try {
 			while(true) {
-				do {
+				do { 
 					System.out.println();
 					System.out.println("       ,o888888o.     8888  b.             88 8888888888            ,8.       ,8.                   .8.         ");          
 					System.out.println("      8888     `88.   8888  888o.          88 8888                 ,888.     ,888.                 .888.         ");

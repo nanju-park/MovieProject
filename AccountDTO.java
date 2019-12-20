@@ -9,7 +9,7 @@ public class AccountDTO {
 	private String checkid;
 	private String checkpw;
 	private int custom_pid;
-	
+	 
 	public int getCustom_pid() {
 		return custom_pid;
 	}

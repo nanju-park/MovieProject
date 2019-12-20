@@ -4,7 +4,7 @@ public class MovieDTO {
 	
 	//1. ¡÷ºÆ 
 	//2. 
-	
+	 
 	//snack 
 	int snack_id;
 	String type;

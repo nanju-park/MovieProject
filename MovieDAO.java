@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import com.db.DBconn;
-
+ 
 public class MovieDAO {
 	//회원 가입시 user 세션을 유지하기위해서 
 	//테이블에 uniqueid값을 입력 
